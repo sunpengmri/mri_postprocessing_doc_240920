@@ -4,5 +4,9 @@ About
    :maxdepth: 1
 
 MRI Postprocessing developed/recorded by Dr. Peng Sun
-peng.sun@philips.com
 
+**sp5188@126.com**
+
+**sunpengwipm@whu.edu.cn**
+
+**weichat:**
